@@ -1,0 +1,10 @@
+CONTACT MANAGEMENT SYSTEM - PYTHON
+ 
+This is my first Python project.
+
+Language- Python
+Database - Sqlite
+
+
+@rajatsingh
+
